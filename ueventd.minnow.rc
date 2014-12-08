@@ -1,0 +1,4 @@
+/dev/mtd/mtd0             0660   system     audio
+/dev/hci_tty              0660   bluetooth  net_bt_stack
+/dev/pvrsrvkm             0666   system     graphics
+/dev/pvr_sync             0666   system     graphics
